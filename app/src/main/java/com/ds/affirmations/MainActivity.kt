@@ -20,3 +20,9 @@ class MainActivity : AppCompatActivity() {
         recyclerView.setHasFixedSize(true)
     }
 }
+
+
+
+
+
+
